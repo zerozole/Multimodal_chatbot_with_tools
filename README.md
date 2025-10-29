@@ -2,6 +2,7 @@ This project is a multimodal chatbot designed for an airline assistant. It suppo
 One of the integrated tools allows the chatbot to look up ticket prices stored in a SQLite database.The user interface is built using Gradio, and the OpenAI API is used for natural language and multimodal processing.
 
 Setup:
+
 Install uv if it is not already installed.
 Run the following command to set up all dependencies and create a virtual environment for the Jupyter notebook:
 
