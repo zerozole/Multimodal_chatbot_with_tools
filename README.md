@@ -5,4 +5,5 @@ Setup
 Install uv if it is not already installed.
 Run the following command to set up all dependencies and create a virtual environment for the Jupyter notebook:
     uv sync
+    
 This will automatically configure the environment and install everything required to run the project.
